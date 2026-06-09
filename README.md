@@ -55,12 +55,12 @@ Se você busca alguém que saiba decifrar dados complexos, mas que também saiba
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 
-
 ---
+
 
 ### 📊 Minhas Estatísticas Tech
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cahrayssacyber-cell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahrayssacyber-cell&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cahrayssacyber-cell&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cahrayssacyber-cell&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
