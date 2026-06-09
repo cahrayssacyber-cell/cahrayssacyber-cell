@@ -1,4 +1,4 @@
-# E, boas-vindas ao meu perfil! 👋
+# Eai, boas-vindas ao meu perfil! 👋
 
 Se você chegou até aqui, provavelmente está tentando entender como uma trajetória que começou no atendimento ao público se conecta com Cibersegurança e Análise de Dados. Deixa eu te contar como tudo isso faz sentido.
 
