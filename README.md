@@ -54,3 +54,13 @@ Se você busca alguém que saiba decifrar dados complexos, mas que também saiba
 <a href="https://wa.me/5533998160353?text=Olá,%20Rayssa!%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar." target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
+
+
+---
+
+### 📊 Minhas Estatísticas Tech
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cahrayssacyber-cell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahrayssacyber-cell&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+</p>
