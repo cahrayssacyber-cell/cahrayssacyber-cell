@@ -45,7 +45,7 @@ Aqui estão algumas das ferramentas e conceitos que utilizo para transformar dad
 
 ### 📬 Vamos conversar?
 
-Se você busca alguém que saiba decifrar dados complexos, mas que também saiba conversar com pessoas de verdade para gerar valor real e segurança para o negócio, entre em contato!
+Se você busca alguém que saiba decifrar dados complexos, mas que também saiba conversar com pessoas de verdade para gerar valor real e segurança para o seu negócio, fale comigo :) !
 
 <a href="https://linkedin.com/in/rayssa-silva-339236175" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
